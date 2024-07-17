@@ -1,17 +1,20 @@
-# basketball_points_counter
+# Basketball Counter
 
-A new Flutter project.
+![App Screenshot](assets/Screen_Shot/Screenshot_1721173881.png)
+
+**Basketball Counter** is a simple Flutter application for counting basketball points for two teams. This project demonstrates the use of Flutter for creating a basic stateful widget application.
+
+## Features
+- Count points for Team A and Team B.
+- Add 1, 2, or 3 points with dedicated buttons.
+- Reset the points for both teams.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Flutter SDK
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Basketball_Points_Counter" 
+### Setup
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/BasketballCounter.git
