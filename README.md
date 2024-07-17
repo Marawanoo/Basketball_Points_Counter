@@ -1,6 +1,6 @@
 # Basketball Counter
 
-![App Screenshot](assets/Screen_Shot/Screenshot_1721173881.png)
+<img src="assets/Screen_Shot/Screenshot_1721173881.png" alt="App Screenshot" width="300" />
 
 **Basketball Counter** is a simple Flutter application for counting basketball points for two teams. This project demonstrates the use of Flutter for creating a basic stateful widget application.
 
